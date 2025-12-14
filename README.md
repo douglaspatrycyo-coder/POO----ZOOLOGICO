@@ -1,0 +1,2 @@
+Códigos básicos que trabalham em cima das boas práticas de POO, seguindo, principalmente, os conceitos de herança, encapsulamento e abstração. Consiste em uma pequena parcela de sistema de zoológico, com 3 animais:
+uma ave, um leão e um elefantes, todos sendo subclasses da superclasse Animal, com métodos próprios, mas com suas especificidades, como barulho, tamanho de específica parte marcante e locomoção.
